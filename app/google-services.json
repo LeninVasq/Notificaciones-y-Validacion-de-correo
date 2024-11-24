@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665893849806",
+    "project_id": "pruebanoti-ce3ae",
+    "storage_bucket": "pruebanoti-ce3ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665893849806:android:f5b77ed7b4b68160dc1e9f",
+        "android_client_info": {
+          "package_name": "sv.edu.itca.notipush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJ_wZAY5jH63leIQO4Kdt72FstE4Qq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
